@@ -1,1 +1,8 @@
-Hey, there is supposed to be some self-reflection type of text here but you will find none! Enjoy being disappointed in this just like I am in myself!
+This project is part of a The Odin Project: Foundations: (Recipes) course.
+
+All images have been taken from matadornetwork.com
+
+Recipe information have been taken from:
+
+thespruceeats.com
+natashakitchen.com

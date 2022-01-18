@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+footer {
+    position: absolute;
+    width: 100%;
+}
+
+.width-sixty-p{
+    width: 60%;
+}
+
+img {
+    width: 60%;
+}
+
+.footer-text {
+    color: gray;
+    font-size: smaller;
+    text-align: center;
+}
+
+a{
+    color:blue;
+}
+
+a:hover {
+    color: #A5243D;
+    transition: 0.3s;
+}
+
+h1 {
+    position: absolute;
+    padding-left: 60%;
+    word-spacing: 100vw;
+    font-family: 'Multi', sans-serif;
+}
+
+h2 {
+    color: salmon;
+}
