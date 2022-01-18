@@ -1,12 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
 
-footer {
+footer{
     position: absolute;
     width: 100%;
 }
 
 .width-sixty-p{
     width: 60%;
+}
+
+ul{
+    width: 93%;
+}
+
+ol{
+    width: 93%;
 }
 
 img {
@@ -33,8 +41,4 @@ h1 {
     padding-left: 60%;
     word-spacing: 100vw;
     font-family: 'Multi', sans-serif;
-}
-
-h2 {
-    color: salmon;
 }
