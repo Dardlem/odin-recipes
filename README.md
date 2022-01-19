@@ -1,10 +1,10 @@
 This project is part of a The Odin Project: Foundations: (Recipes) course.
 
-All images have been taken from matadornetwork.com
+All images have been taken from <br>
+https://www.matadornetwork.com
 
-Recipe information have been taken from:
+Recipe information have been taken from:<br>
+https://www.thespruceeats.com<br>
+https://www.natashakitchen.com<br>
 
-thespruceeats.com
-natashakitchen.com
-
-dardlem.github.io/odin-recipes/
+<a href="https://dardlem.github.io/odin-recipes/">Click here to view</a>
