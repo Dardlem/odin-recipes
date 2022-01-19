@@ -4,12 +4,39 @@ html{
     background-color: #0A2239;
     color: #FFFBFE;
     font-family: sans-serif;
-    font-weight: 100;
 }
 
 main{
     padding-left: 1%;
     padding-top: 1%;
+}
+
+.main-flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+div.text{
+    width: 60%;
+}
+
+div.text p{
+    padding-right: 5%;
+}
+
+div.text li{
+    padding-right: 5%;
+}
+
+div.images{
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+}
+
+div.images img{
+    height: min-content;
 }
 
 .img-text{
