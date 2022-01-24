@@ -6,11 +6,6 @@ html{
     font-family: sans-serif;
 }
 
-main{
-    padding-left: 1%;
-    padding-top: 1%;
-}
-
 .main-flex{
     display: flex;
     flex-wrap: wrap;
@@ -43,6 +38,7 @@ div.images img{
     display: inline-flex;
     justify-content: flex-start;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .img-text h1 {
@@ -123,4 +119,8 @@ ul.index li:hover{
 footer{
     position: absolute;
     width: 100%;
+}
+
+footer div.link{
+    margin: 1% 0% 1% 0%;
 }
